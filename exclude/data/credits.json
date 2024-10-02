@@ -178,14 +178,13 @@
       ]
     },
     {
-      "header": "iOS & HTML5-Mobile Porting",
+      "header": "iOS Porting",
       "body": [
-        { "line": "Lily" },
-        { "line": "Karim Akra" }
+        { "line": "mcagabe19" }
       ]
     },
     {
-      "header": "iOS & HTML5-Mobile Beta-testing",
+      "header": "iOS Beta-testing",
       "body": [
         { "line": "shyllis" }
       ]
